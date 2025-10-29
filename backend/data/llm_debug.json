@@ -1,0 +1,287 @@
+[
+  {
+    "type": "extract_fail",
+    "input": "I am having a skin allergy and rashes all over my body.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Kiitos.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having allergy all over my skin.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "आब बुग में आप बवित दरमोटोलगिस दोक्तर आर्के गुप्ता",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Book Thermatologist",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "बूक तो दोक्तर आरके गुप्ता",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I'm having an allergy all over my skins and rashes all over my stream",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Wednesday 10 0 0",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Wed 10:00",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "¡Va por mi nacer, hermano!",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I have an allergies on my body",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Wednesday 10. Book it.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "पैस्ट मेंमिज उड़ा आगर",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Uday 4",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Book me on thursday 11th",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Book me.  appointment.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book and appointment form",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am suffering from skin allergy book me a point",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "i m having skin allergy",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having fever and body pain.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "general physician",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "book me",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "me appointment of skin allergy",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I have rashes all over my body and it's been like an allergy.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I need to book an appointment with the doctor.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "How are you?",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "CBER & BODYPAN",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I'm from Fever",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "i m pain in heart",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Thank you.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having a skin allergy and racist",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "dermotology",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Dermatology",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "And dresses on my skin",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "और दोक्र मीना सर्मा",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Thank you.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "i m having skin allergy",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "it's like an allergy and eczema on my skin",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "Emis, o de...",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "जाक्टर रोहन  जाक्टर रोहन",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I'm having heart-related problems.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "You",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "having an fever",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having and body pain and fever and rashes all over my body",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "No.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "You",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "هلأ أبو؟",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "My name is Rakesh and I am having and skin allergy.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having skin allergy all over my body.",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "You",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  },
+  {
+    "type": "extract_fail",
+    "input": "I am having eczema and allergies all over my skin so suggest me a doctor",
+    "error": "OpenAI client init failed: OpenAI library not available: cannot import name 'OpenAI' from 'openai' (E:\\project\\2025\\Website\\DoctorAI\\backend\\.venv\\Lib\\site-packages\\openai\\__init__.py)"
+  }
+]

@@ -1,0 +1,1472 @@
+{
+  "d79120b3-a9d2-4de7-8c16-1d34f9460ad9": {
+    "id": "d79120b3-a9d2-4de7-8c16-1d34f9460ad9",
+    "created_at": "2025-10-27T16:46:05.889069",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T16:46:06.508896"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "4f7d3d28-bbe7-4559-b72e-b3d9e5e6b28e": {
+    "id": "4f7d3d28-bbe7-4559-b72e-b3d9e5e6b28e",
+    "created_at": "2025-10-27T16:46:52.462744",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T16:46:52.983092"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. R.K. Gupta",
+      "doctor_id": 1,
+      "candidate_slots": [
+        "Wed 10:00",
+        "Fri 16:00"
+      ]
+    },
+    "state": "collecting"
+  },
+  "4d831b3e-674c-4294-805b-ba12217961dd": {
+    "id": "4d831b3e-674c-4294-805b-ba12217961dd",
+    "created_at": "2025-10-27T16:47:06.916464",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T16:47:07.549450"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "8d091bcd-8bb5-457b-9550-af7c5e8daaa2": {
+    "id": "8d091bcd-8bb5-457b-9550-af7c5e8daaa2",
+    "created_at": "2025-10-27T16:47:18.717433",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T16:47:19.176286"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. R.K. Gupta",
+      "doctor_id": 1,
+      "candidate_slots": [
+        "Wed 10:00",
+        "Fri 16:00"
+      ]
+    },
+    "state": "collecting"
+  },
+  "4aff6c63-2097-445f-ad30-33d1eb1104c4": {
+    "id": "4aff6c63-2097-445f-ad30-33d1eb1104c4",
+    "created_at": "2025-10-27T16:47:28.490162",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T16:47:28.929100"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "e439997a-44b2-4ff0-95df-53669dad98e0": {
+    "id": "e439997a-44b2-4ff0-95df-53669dad98e0",
+    "created_at": "2025-10-27T17:02:04.770779",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T17:02:05.175490"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. Aditi Mehra",
+      "doctor_id": 2,
+      "candidate_slots": [
+        "Mon 11:00",
+        "Thu 15:00"
+      ]
+    },
+    "state": "collecting"
+  },
+  "2bb225fc-9050-42d4-a9e1-b441c0dedeb9": {
+    "id": "2bb225fc-9050-42d4-a9e1-b441c0dedeb9",
+    "created_at": "2025-10-27T17:02:34.791014",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T17:02:35.365439"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "2fb4423f-14c8-40cd-8acc-c11883bdfde8": {
+    "id": "2fb4423f-14c8-40cd-8acc-c11883bdfde8",
+    "created_at": "2025-10-27T17:02:53.157708",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T17:02:54.007903"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. Aditi Mehra",
+      "doctor_id": 2,
+      "candidate_slots": [
+        "Mon 11:00",
+        "Thu 15:00"
+      ]
+    },
+    "state": "collecting"
+  },
+  "f82069d6-3536-48c9-a43d-6aea5b7ede35": {
+    "id": "f82069d6-3536-48c9-a43d-6aea5b7ede35",
+    "created_at": "2025-10-27T17:44:13.467617",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T17:44:14.422239"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "0feeb8dd-1480-4332-b471-9f777a546179": {
+    "id": "0feeb8dd-1480-4332-b471-9f777a546179",
+    "created_at": "2025-10-27T17:46:07.920499",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T17:46:08.347606"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "070962e9-c75c-4fd3-b4fb-3022acfc696e": {
+    "id": "070962e9-c75c-4fd3-b4fb-3022acfc696e",
+    "created_at": "2025-10-27T18:51:41.921869",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T18:51:42.395995"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "79160251-b814-4a49-8507-d1b644d3a141": {
+    "id": "79160251-b814-4a49-8507-d1b644d3a141",
+    "created_at": "2025-10-27T18:52:21.478918",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T18:52:21.901497"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "6882dbd8-e5c8-4636-ac7a-8d9073cffa94": {
+    "id": "6882dbd8-e5c8-4636-ac7a-8d9073cffa94",
+    "created_at": "2025-10-27T18:53:11.324211",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T18:53:11.755307"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. Meena Sharma",
+      "doctor_id": 5,
+      "candidate_slots": [
+        "Thu 11:00",
+        "Sat 10:00"
+      ]
+    },
+    "state": "collecting"
+  },
+  "585dcfd7-3527-49aa-a777-f991961e17c0": {
+    "id": "585dcfd7-3527-49aa-a777-f991961e17c0",
+    "created_at": "2025-10-27T18:53:27.879818",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T18:53:28.316975"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "8e632c411203": {
+    "id": "8e632c411203",
+    "created_at": "2025-10-27T19:11:46.499056",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which doctor would you like? Please give full name or specialization.",
+        "at": "2025-10-27T19:11:47.229198"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T19:13:59.286850"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T19:14:28.491878"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's full name, please?",
+        "at": "2025-10-27T19:38:29.604574"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's name, please? (You can give a single name or full name.)",
+        "at": "2025-10-27T20:14:12.668528"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's name, please? (You can give a single name or full name.)",
+        "at": "2025-10-27T20:15:02.166274"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:49:44.986161"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:50:38.012253"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:50:38.158752"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:50:41.903177"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:50:41.966417"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:51:12.458547"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:51:12.616410"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:51:53.489604"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:51:54.049202"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:58:42.289213"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-27T20:59:49.621298"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-28T02:37:44.640669"
+      },
+      {
+        "role": "assistant",
+        "text": "I didn't understand that fully. Could you rephrase or give the problem and a preferred time?",
+        "at": "2025-10-28T02:38:04.142548"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email address for confirmation.",
+        "at": "2025-10-28T02:52:04.211070"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-28T04:22:24.098492"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-28T04:23:05.159312"
+      }
+    ],
+    "metadata": {
+      "doctor_name": "Dr. Meena Sharma",
+      "doctor_id": 5,
+      "candidate_slots": [
+        "Thu 11:00",
+        "Sat 10:00"
+      ],
+      "patient_name": "<session-init>",
+      "disease_description": "Hi, I need a booking of a patient."
+    },
+    "state": "collecting"
+  },
+  "c80af4a5": {
+    "id": "c80af4a5",
+    "created_at": "2025-10-28T04:23:22.487058",
+    "messages": [
+      {
+        "role": "user",
+        "text": "hey",
+        "at": "2025-10-28T04:23:22.499994"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T05:57:34.635215"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T05:58:30.050422"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T05:59:05.976289"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T06:02:55.774041"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T06:03:07.596517"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T07:32:54.742668"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T07:32:56.780571"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T07:34:03.640161"
+      }
+    ],
+    "metadata": {
+      "last_raw": "Hello, how are you?",
+      "patient_name": "having a skin allergy and rashes all over my body",
+      "chief_complaint": "I am having a skin allergy and rashes all over my body.",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I am having a skin allergy and rashes all over my body."
+    },
+    "state": "collecting"
+  },
+  "99e35d7a": {
+    "id": "99e35d7a",
+    "created_at": "2025-10-28T07:47:29.552619",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T07:47:32.503644"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T07:48:15.709327"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T07:48:17.763017"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T07:48:47.403573"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T07:49:34.096427"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T07:50:16.584217"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T07:50:57.047121"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having allergy all over my skin",
+      "chief_complaint": "I am having allergy all over my skin.",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I am having allergy all over my skin."
+    },
+    "state": "collecting"
+  },
+  "200c5c95": {
+    "id": "200c5c95",
+    "created_at": "2025-10-28T08:09:11.759502",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T08:09:11.794030"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T08:09:14.116990"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T08:36:10.634722"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T08:36:12.518801"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T08:37:18.389075"
+      }
+    ],
+    "metadata": {
+      "chief_complaint": "I'm having an allergy all over my skins and rashes all over my stream",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I'm having an allergy all over my skins and rashes all over my stream"
+    },
+    "state": "collecting"
+  },
+  "ff19b8ae": {
+    "id": "ff19b8ae",
+    "created_at": "2025-10-28T08:42:39.562878",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, my name is Uday, book me an appointment.",
+        "at": "2025-10-28T08:42:39.581711"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T08:42:43.973978"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot do you prefer?",
+        "at": "2025-10-28T08:43:10.501418"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:43:41.773290"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:43:56.276464"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:44:05.925436"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:44:22.931251"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:45:09.499639"
+      }
+    ],
+    "metadata": {
+      "doctor_id": 1,
+      "doctor_name": "Dr. R.K. Gupta",
+      "patient_name": "book me"
+    },
+    "state": "collecting"
+  },
+  "d30eb295": {
+    "id": "d30eb295",
+    "created_at": "2025-10-28T08:57:29.453296",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T08:57:29.472328"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T08:57:31.456213"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-28T08:58:42.114854"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T08:59:18.427026"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's name, please?",
+        "at": "2025-10-28T09:05:33.330814"
+      },
+      {
+        "role": "assistant",
+        "text": "May I have the patient's name, please? A single name is fine.",
+        "at": "2025-10-28T09:06:00.421125"
+      },
+      {
+        "role": "user",
+        "text": "Ude!",
+        "at": "2025-10-28T09:06:22.464813"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email address for the confirmation.",
+        "at": "2025-10-28T09:07:14.182138"
+      },
+      {
+        "role": "user",
+        "text": "udaygarg@hotmail.com",
+        "at": "2025-10-28T09:07:28.927029"
+      },
+      {
+        "role": "user",
+        "text": "book",
+        "at": "2025-10-28T09:07:37.806924"
+      },
+      {
+        "role": "user",
+        "text": "ss",
+        "at": "2025-10-28T09:07:40.854430"
+      },
+      {
+        "role": "user",
+        "text": "Hi, how are you?",
+        "at": "2025-10-28T09:25:02.231618"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T09:25:04.282817"
+      },
+      {
+        "role": "user",
+        "text": "Book me an appointment with Dr. Meena Sharma.",
+        "at": "2025-10-28T09:25:35.006671"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. Meena Sharma is available at: Thu 11:00, Sat 10:00. Which slot works for you?",
+        "at": "2025-10-28T09:25:38.033007"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T09:26:08.391564"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T09:26:59.445499"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-28T09:47:17.958684"
+      },
+      {
+        "role": "user",
+        "text": "heelo",
+        "at": "2025-10-28T09:47:23.957745"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T09:47:31.700189"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T09:47:52.073032"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-28T10:27:03.076977"
+      },
+      {
+        "role": "user",
+        "text": "hello",
+        "at": "2025-10-28T10:27:10.928792"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T10:27:19.767936"
+      },
+      {
+        "role": "user",
+        "text": "cardiologist",
+        "at": "2025-10-28T10:27:49.473192"
+      },
+      {
+        "role": "user",
+        "text": "Dr. R.K. Gupta",
+        "at": "2025-10-28T10:28:01.600442"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. R.K. Gupta is available at: Wed 10:00, Fri 16:00. Which slot works for you?",
+        "at": "2025-10-28T10:28:04.707715"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-28T10:28:21.874711"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-28T11:05:29.683787"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T11:05:32.497915"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T11:05:56.604051"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T11:06:41.747488"
+      },
+      {
+        "role": "user",
+        "text": "good afternoon",
+        "at": "2025-10-28T11:07:35.183697"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T11:07:37.948376"
+      },
+      {
+        "role": "user",
+        "text": "Dr. Meena Sharma",
+        "at": "2025-10-28T11:07:58.375643"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. Meena Sharma is available at: Thu 11:00, Sat 10:00. Which slot works for you?",
+        "at": "2025-10-28T11:08:01.033360"
+      },
+      {
+        "role": "user",
+        "text": "Thursday 11 for Minasar my point",
+        "at": "2025-10-28T11:08:50.855281"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email address for the confirmation.",
+        "at": "2025-10-28T11:08:52.906488"
+      },
+      {
+        "role": "user",
+        "text": "book me",
+        "at": "2025-10-28T11:09:29.830128"
+      },
+      {
+        "role": "assistant",
+        "text": "Please provide an email for confirmation.",
+        "at": "2025-10-28T11:09:31.919124"
+      }
+    ],
+    "metadata": {
+      "doctor_id": 1,
+      "doctor_name": "Dr. R.K. Gupta",
+      "requested_slot": "Wed 10:00",
+      "patient_name": "Uday 4",
+      "chief_complaint": "I am suffering from skin allergy book me a point",
+      "detected_specialization": "Dermatology"
+    },
+    "state": "collecting"
+  },
+  "61931757-ad0f-4c49-881c-aa3db281e80c": {
+    "id": "61931757-ad0f-4c49-881c-aa3db281e80c",
+    "created_at": "2025-10-28T11:09:45.285159",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello , i m having skin allergy",
+        "at": "2025-10-28T11:10:04.345189"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T11:10:06.385832"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T11:10:25.272095"
+      }
+    ],
+    "metadata": {
+      "chief_complaint": "i m having skin allergy",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "i m having skin allergy"
+    },
+    "state": "collecting"
+  },
+  "044d8844-4dbf-45ec-b4ad-06b983f3363a": {
+    "id": "044d8844-4dbf-45ec-b4ad-06b983f3363a",
+    "created_at": "2025-10-28T11:12:02.118322",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-28T11:12:34.251776"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find a matching doctor \u2014 which specialty would you prefer (e.g., Dermatology, Cardiology)?",
+        "at": "2025-10-28T11:13:04.080029"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find a matching doctor \u2014 which specialty would you prefer (e.g., Dermatology, Cardiology)?",
+        "at": "2025-10-28T11:13:42.276232"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find a matching doctor \u2014 which specialty would you prefer (e.g., Dermatology, Cardiology)?",
+        "at": "2025-10-28T11:13:52.083072"
+      },
+      {
+        "role": "user",
+        "text": "dermatology",
+        "at": "2025-10-28T11:14:12.111989"
+      },
+      {
+        "role": "user",
+        "text": "hello",
+        "at": "2025-10-28T11:14:16.776498"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find a matching doctor \u2014 which specialty would you prefer (e.g., Dermatology, Cardiology)?",
+        "at": "2025-10-28T14:00:14.077436"
+      },
+      {
+        "role": "user",
+        "text": "hello how are you please book me a point",
+        "at": "2025-10-28T14:00:49.692204"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-28T14:00:52.478780"
+      },
+      {
+        "role": "assistant",
+        "text": "I couldn't find a matching doctor \u2014 which specialty would you prefer (e.g., Dermatology, Cardiology)?",
+        "at": "2025-10-28T14:01:25.977357"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having",
+      "chief_complaint": "I am having fever and body pain.",
+      "detected_specialization": "General Medicine"
+    },
+    "state": "collecting"
+  },
+  "28bbed58-fc75-44ab-bd74-5e803794d707": {
+    "id": "28bbed58-fc75-44ab-bd74-5e803794d707",
+    "created_at": "2025-10-28T14:01:54.555433",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-28T14:03:08.956613"
+      },
+      {
+        "role": "user",
+        "text": "hello",
+        "at": "2025-10-29T04:48:06.497752"
+      },
+      {
+        "role": "user",
+        "text": "book",
+        "at": "2025-10-29T04:48:13.617970"
+      },
+      {
+        "role": "user",
+        "text": "hello",
+        "at": "2025-10-29T05:24:46.569575"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-29T05:24:56.849120"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-29T05:27:29.384258"
+      },
+      {
+        "role": "user",
+        "text": "hello",
+        "at": "2025-10-29T05:27:35.150733"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-29T05:30:10.016242"
+      },
+      {
+        "role": "assistant",
+        "text": "Good morning! How can I help you today?",
+        "at": "2025-10-29T05:30:12.861561"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-29T05:31:36.423745"
+      },
+      {
+        "role": "assistant",
+        "text": "Good morning! How can I help you today?",
+        "at": "2025-10-29T05:31:39.246538"
+      },
+      {
+        "role": "user",
+        "text": "hi",
+        "at": "2025-10-29T05:32:10.462687"
+      },
+      {
+        "role": "user",
+        "text": "Hi.",
+        "at": "2025-10-29T05:32:41.723675"
+      },
+      {
+        "role": "assistant",
+        "text": "Good morning! How can I help you today?",
+        "at": "2025-10-29T06:22:52.571512"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T06:23:53.336327"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T06:49:08.528324"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T06:49:59.483682"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T06:50:40.962612"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T06:51:07.372692"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T07:20:01.240277"
+      }
+    ],
+    "metadata": {
+      "chief_complaint": "I have rashes all over my body and it's been like an allergy.",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I have rashes all over my body and it's been like an allergy.",
+      "patient_name": "hi"
+    },
+    "state": "collecting"
+  },
+  "b3992124-6eff-49cd-a11f-eea82f3b0493": {
+    "id": "b3992124-6eff-49cd-a11f-eea82f3b0493",
+    "created_at": "2025-10-29T07:22:42.696384",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "9884e4d5-3406-41bf-99f3-66e15f640f30": {
+    "id": "9884e4d5-3406-41bf-99f3-66e15f640f30",
+    "created_at": "2025-10-29T07:22:43.995663",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "96eceda4-8e01-40a9-9d0e-88f7045c196d": {
+    "id": "96eceda4-8e01-40a9-9d0e-88f7045c196d",
+    "created_at": "2025-10-29T07:22:44.109610",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "00d70f04-3081-400e-8bf5-1d2ab6187289": {
+    "id": "00d70f04-3081-400e-8bf5-1d2ab6187289",
+    "created_at": "2025-10-29T07:22:44.304858",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "877e9b76-ee2f-4929-886f-6908cffa165b": {
+    "id": "877e9b76-ee2f-4929-886f-6908cffa165b",
+    "created_at": "2025-10-29T07:22:44.494201",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "59cd1a3c-a041-460e-a19b-c81af11a2ece": {
+    "id": "59cd1a3c-a041-460e-a19b-c81af11a2ece",
+    "created_at": "2025-10-29T07:22:44.662232",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "eeea6838-b082-4e20-9a7e-5f19901229c6": {
+    "id": "eeea6838-b082-4e20-9a7e-5f19901229c6",
+    "created_at": "2025-10-29T07:22:44.851295",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "3d5b442e-5e8a-4782-93fc-6f5466e6925d": {
+    "id": "3d5b442e-5e8a-4782-93fc-6f5466e6925d",
+    "created_at": "2025-10-29T07:22:45.115273",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "e6fcb119-3849-4169-ba32-9e470ebbcd2d": {
+    "id": "e6fcb119-3849-4169-ba32-9e470ebbcd2d",
+    "created_at": "2025-10-29T07:35:31.673232",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "I recommend Dermatology. Available: Dr. R.K. Gupta (Wed 10:00, Fri 16:00). Which doctor would you prefer?",
+        "at": "2025-10-29T07:36:29.526751"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T07:37:32.722713"
+      },
+      {
+        "role": "assistant",
+        "text": "I recommend Dermatology. Available: Dr. R.K. Gupta (Wed 10:00, Fri 16:00). Which doctor would you prefer?",
+        "at": "2025-10-29T07:37:42.924824"
+      },
+      {
+        "role": "user",
+        "text": "Hi",
+        "at": "2025-10-29T08:36:32.939769"
+      },
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-29T08:36:35.213552"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T08:40:00.718732"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T08:42:09.190437"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. Meena Sharma is available at: Thu 11:00, Sat 10:00. Which slot works for you?",
+        "at": "2025-10-29T08:42:33.429599"
+      },
+      {
+        "role": "user",
+        "text": "DR ROHAN KAPOOR",
+        "at": "2025-10-29T08:43:00.163596"
+      },
+      {
+        "role": "assistant",
+        "text": "Dr. Rohan Kapoor is available at: Tue 10:00, Fri 12:00. Which slot works for you?",
+        "at": "2025-10-29T08:43:05.309806"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having a skin allergy and racist",
+      "detected_specialization": "Dermatology",
+      "chief_complaint": "And dresses on my skin",
+      "provisional_note_from_complaint": "And dresses on my skin",
+      "doctor_id": 5,
+      "doctor_name": "Dr. Meena Sharma"
+    },
+    "state": "collecting"
+  },
+  "f40f1f23-75a0-40be-8855-68db3670f732": {
+    "id": "f40f1f23-75a0-40be-8855-68db3670f732",
+    "created_at": "2025-10-29T10:04:38.413387",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T10:05:21.329740"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "784dcf5e-4041-49cf-a620-4b5a084a9563": {
+    "id": "784dcf5e-4041-49cf-a620-4b5a084a9563",
+    "created_at": "2025-10-29T11:12:35.421213",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Good afternoon! How can I help you today?",
+        "at": "2025-10-29T11:13:15.277892"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T11:19:47.333775"
+      }
+    ],
+    "metadata": {
+      "patient_name": "hi",
+      "chief_complaint": "i m having skin allergy",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "i m having skin allergy"
+    },
+    "state": "collecting"
+  },
+  "3bc2b3a7-de6e-4bff-a03e-80b7b93ecfaa": {
+    "id": "3bc2b3a7-de6e-4bff-a03e-80b7b93ecfaa",
+    "created_at": "2025-10-29T11:31:29.662228",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "cbc7ed01-df36-4c8f-877f-916b6ff1b321": {
+    "id": "cbc7ed01-df36-4c8f-877f-916b6ff1b321",
+    "created_at": "2025-10-29T11:32:27.211527",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, I want to book an appointment.",
+        "at": "2025-10-29T12:43:57.502802"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T12:43:59.459167"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T12:45:22.700576"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having and rashes and skin allergy on my body",
+      "chief_complaint": "it's like an allergy and eczema on my skin",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "it's like an allergy and eczema on my skin"
+    },
+    "state": "collecting"
+  },
+  "79c13fb6-7527-4b51-8578-45cdeec67b3a": {
+    "id": "79c13fb6-7527-4b51-8578-45cdeec67b3a",
+    "created_at": "2025-10-29T12:49:27.502996",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T12:50:13.510376"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T12:50:45.912909"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "07b87011-2302-45ec-9f39-a5fa4dc6f88d": {
+    "id": "07b87011-2302-45ec-9f39-a5fa4dc6f88d",
+    "created_at": "2025-10-29T12:50:57.240227",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T12:51:16.313134"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Cardiology. We have: Dr. Meena Sharma (Cardiology) \u2014 Thu 11:00, Sat 10:00. Which doctor would you prefer?",
+        "at": "2025-10-29T12:52:18.222978"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Cardiology. We have: Dr. Meena Sharma (Cardiology) \u2014 Thu 11:00, Sat 10:00. Which doctor would you prefer?",
+        "at": "2025-10-29T13:19:00.323433"
+      }
+    ],
+    "metadata": {
+      "patient_name": "hello there",
+      "chief_complaint": "I'm having heart-related problems.",
+      "detected_specialization": "Cardiology",
+      "provisional_note_from_complaint": "I'm having heart-related problems."
+    },
+    "state": "collecting"
+  },
+  "d2c276c6-626f-49ba-bb76-6d39f6e06447": {
+    "id": "d2c276c6-626f-49ba-bb76-6d39f6e06447",
+    "created_at": "2025-10-29T13:19:19.972062",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "033b05c7-d4f2-49d1-a519-1b55ef36bc63": {
+    "id": "033b05c7-d4f2-49d1-a519-1b55ef36bc63",
+    "created_at": "2025-10-29T13:34:02.487547",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T13:36:42.399932"
+      },
+      {
+        "role": "assistant",
+        "text": "Could you tell me what problem or symptoms you have in more detail (so I can suggest the best specialist)?",
+        "at": "2025-10-29T13:37:33.712164"
+      }
+    ],
+    "metadata": {
+      "chief_complaint": "having an fever",
+      "detected_specialization": "General Medicine",
+      "patient_name": "having and body pain and fever and rashes all over my body"
+    },
+    "state": "collecting"
+  },
+  "b63c5b05-f28f-4459-af13-6ef5e276bbc4": {
+    "id": "b63c5b05-f28f-4459-af13-6ef5e276bbc4",
+    "created_at": "2025-10-29T13:37:45.164357",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "12690b84-9a3c-4148-b495-c8d3f921b9d3": {
+    "id": "12690b84-9a3c-4148-b495-c8d3f921b9d3",
+    "created_at": "2025-10-29T13:38:19.794306",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T13:39:19.877414"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "310260be-500f-4435-8741-60fe5804f254": {
+    "id": "310260be-500f-4435-8741-60fe5804f254",
+    "created_at": "2025-10-29T13:39:26.255653",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T13:40:24.337114"
+      },
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T13:40:51.746962"
+      }
+    ],
+    "metadata": {
+      "patient_name": "You"
+    },
+    "state": "collecting"
+  },
+  "0eb51e7e-44be-48ff-a9a0-065304856ffb": {
+    "id": "0eb51e7e-44be-48ff-a9a0-065304856ffb",
+    "created_at": "2025-10-29T13:40:46.292840",
+    "messages": [],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "e58264bb-86a9-4a45-b29d-bb7f3146adc4": {
+    "id": "e58264bb-86a9-4a45-b29d-bb7f3146adc4",
+    "created_at": "2025-10-29T13:41:06.674940",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T13:43:02.588285"
+      },
+      {
+        "role": "user",
+        "text": "Hello there.",
+        "at": "2025-10-29T13:51:58.839231"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T13:52:04.297874"
+      },
+      {
+        "role": "user",
+        "text": "Hi, dear.",
+        "at": "2025-10-29T13:53:32.001281"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T13:53:35.735915"
+      }
+    ],
+    "metadata": {
+      "patient_name": "Rakesh and I am having and skin allergy",
+      "chief_complaint": "My name is Rakesh and I am having and skin allergy.",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "My name is Rakesh and I am having and skin allergy."
+    },
+    "state": "collecting"
+  },
+  "acd84575-0b9e-4059-b493-7dcb364de6c8": {
+    "id": "acd84575-0b9e-4059-b493-7dcb364de6c8",
+    "created_at": "2025-10-29T13:54:10.990175",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, book me an appointment.",
+        "at": "2025-10-29T14:20:44.657824"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T14:20:47.365113"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T14:22:25.508378"
+      },
+      {
+        "role": "assistant",
+        "text": "Okay \u2014 I'll prepare a booking with Dr. R.K. Gupta (Dermatology). May I have the patient's name, please?",
+        "at": "2025-10-29T14:23:11.407338"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having skin allergy all over my body",
+      "chief_complaint": "I am having skin allergy all over my body.",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I am having skin allergy all over my body.",
+      "doctor_id": 1,
+      "doctor_name": "Dr. R.K. Gupta",
+      "requested_slot": "Wed 10:00"
+    },
+    "state": "collecting"
+  },
+  "134bb7a8-b718-4404-a714-568fbba19393": {
+    "id": "134bb7a8-b718-4404-a714-568fbba19393",
+    "created_at": "2025-10-29T14:28:29.423224",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-29T14:29:39.419655"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T14:29:42.397372"
+      },
+      {
+        "role": "user",
+        "text": "Good evening.",
+        "at": "2025-10-29T14:30:54.892616"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T14:31:02.519845"
+      },
+      {
+        "role": "user",
+        "text": "Hello, how are you?",
+        "at": "2025-10-29T15:13:17.874882"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T15:13:21.526470"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "c3e9f155-93a1-48ab-b1cd-6db8aeb472cc": {
+    "id": "c3e9f155-93a1-48ab-b1cd-6db8aeb472cc",
+    "created_at": "2025-10-29T15:57:38.526874",
+    "messages": [
+      {
+        "role": "assistant",
+        "text": "Which specialization or doctor would you like to see? (Example: 'Dermatology' or 'Dr. R. K. Gupta').",
+        "at": "2025-10-29T16:10:39.530073"
+      }
+    ],
+    "metadata": {
+      "patient_name": "You"
+    },
+    "state": "collecting"
+  },
+  "8ca9a254-3a6b-4433-8ea0-de2dc677d403": {
+    "id": "8ca9a254-3a6b-4433-8ea0-de2dc677d403",
+    "created_at": "2025-10-29T16:10:47.649742",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hi, dear.",
+        "at": "2025-10-29T16:11:24.129961"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T16:11:33.674715"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "4d7850b7-cff5-4b9c-b2ac-3c8d729e96a1": {
+    "id": "4d7850b7-cff5-4b9c-b2ac-3c8d729e96a1",
+    "created_at": "2025-10-29T16:11:51.259975",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hi there!",
+        "at": "2025-10-29T16:12:29.384174"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T16:12:37.742227"
+      }
+    ],
+    "metadata": {},
+    "state": "collecting"
+  },
+  "9b943964-9d70-45bf-b6e6-d7d5a0da59a1": {
+    "id": "9b943964-9d70-45bf-b6e6-d7d5a0da59a1",
+    "created_at": "2025-10-29T16:18:27.780999",
+    "messages": [
+      {
+        "role": "user",
+        "text": "Hi there!",
+        "at": "2025-10-29T16:25:22.018580"
+      },
+      {
+        "role": "assistant",
+        "text": "Good evening! How can I help you today?",
+        "at": "2025-10-29T16:25:29.389894"
+      },
+      {
+        "role": "assistant",
+        "text": "Based on that, I suggest Dermatology. We have: Dr. R.K. Gupta (Dermatology) \u2014 Wed 10:00, Fri 16:00. Which doctor would you prefer?",
+        "at": "2025-10-29T16:27:18.402402"
+      },
+      {
+        "role": "assistant",
+        "text": "Okay \u2014 I'll prepare a booking with Dr. R.K. Gupta (Dermatology). May I have the patient's name, please?",
+        "at": "2025-10-29T16:28:26.547576"
+      }
+    ],
+    "metadata": {
+      "patient_name": "having eczema and allergies all over my skin so suggest me a doctor",
+      "chief_complaint": "I am having eczema and allergies all over my skin so suggest me a doctor",
+      "detected_specialization": "Dermatology",
+      "provisional_note_from_complaint": "I am having eczema and allergies all over my skin so suggest me a doctor",
+      "doctor_id": 1,
+      "doctor_name": "Dr. R.K. Gupta",
+      "requested_slot": "Wed 10:00"
+    },
+    "state": "collecting"
+  }
+}

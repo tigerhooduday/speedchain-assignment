@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "doctor_id": 1,
+    "doctor_name": "Dr. R.K. Gupta",
+    "patient_name": "Uday Garg",
+    "patient_email": "Udaygarg@hotmail.com",
+    "requested_slot": "Fri 16:00",
+    "note": ""
+  }
+]

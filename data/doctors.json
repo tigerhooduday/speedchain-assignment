@@ -1,0 +1,54 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. R.K. Gupta",
+      "specialization": "Dermatology",
+      "bio": "Senior dermatologist",
+      "available_slots": [
+        "Wed 10:00",
+        "Fri 16:00"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Aditi Mishra",
+      "specialization": "Physiotherapy",
+      "bio": "Expert in sports injuries",
+      "available_slots": [
+        "Mon 11:00",
+        "Thu 15:00"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. Rohan Kapoor",
+      "specialization": "Psychology",
+      "bio": "Mental wellness coach",
+      "available_slots": [
+        "Tue 10:00",
+        "Fri 12:00"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ms. Nisha Bansal",
+      "specialization": "Yoga & Fitness",
+      "bio": "Holistic fitness trainer",
+      "available_slots": [
+        "Mon 09:00",
+        "Wed 14:00"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Meena Sharma",
+      "specialization": "Cardiology",
+      "bio": "Heart specialist",
+      "available_slots": [
+        "Thu 11:00",
+        "Sat 10:00"
+      ]
+    }
+  ]
+}
